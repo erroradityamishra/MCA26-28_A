@@ -1,0 +1,17 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex c363c93..1279eab 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,8 +1,11 @@[m
+ # MCA26-28_A[m
+ This is the github repo for the KIET MCA , to learn more about Git and Github[m
+ <br>[m
+[31m-That all[m
+[32m+[m[32m<p>That all that help you out in getting all about git and github[m
+[32m+[m[32m</p>[m
+ <br>[m
+[32m+[m[32m<br>[m
+[32m+[m
+ Author is Aditya Mishra [m
+ KIET MCA 2026-28[m
+ Muradnagar [m
